@@ -1,0 +1,9 @@
+.list-board{
+ text-align: center;
+}
+.list-board-item{
+    display: flex;
+    justify-content: space-around;
+    text-transform: uppercase;
+
+}
